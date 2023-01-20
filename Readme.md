@@ -1,5 +1,5 @@
 # Building a CLI app in Rust
-[follow by] (https://www.youtube.com/watch?v=4km2UijVC3M)
+[Follow by this youtube video](https://www.youtube.com/watch?v=4km2UijVC3M)
 
 <!-- GETTING STARTED -->
 ## Getting Started
